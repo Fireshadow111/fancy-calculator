@@ -1,0 +1,16 @@
+button{
+    color: #44d62c;
+    background-color: black;
+    border-style: none;
+
+}
+
+div{
+    border-style: solid;
+    border-color: #44d62c;
+
+}
+
+button:hover{
+    cursor: pointer;
+}
