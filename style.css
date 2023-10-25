@@ -21,3 +21,8 @@ button:hover{
     width: 230px;
     border-radius: 10px;
 }
+
+.cal-div{
+    background-color: white;
+    max-width: fit-content;
+}
